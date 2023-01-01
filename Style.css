@@ -6,4 +6,6 @@ hr{
     border-style: ridge;
     border-top-style: dotted;
     border-color: #2DCDDF;
+border-width: 5px;
+    width: 5%;
 }
