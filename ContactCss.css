@@ -1,0 +1,28 @@
+body{
+    background-color: #DEF5E5;
+}
+
+
+h2{
+    font-family: Apple Chancery, cursive;
+}
+
+p{
+    font-family: Courier New, monospace	;
+}
+
+h1{
+    color: #66bfbf;
+}
+
+h3{
+    color: #66bfbf;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #8EC3B0;
+    border-width: 5px;
+    width: 5%;
+}
